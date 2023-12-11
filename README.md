@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @starlimit
-- 👀 I’m interested in Flutter Mobile application development 
+- 👀 I’m interested in Web/Mobile application development as well as Cloud Technologies (Infrastructure and Management)
 - 💞️ I’m looking to collaborate on similar projects and packages
 - 📫 How to reach me olufikayoolowoyo@gmail.com
 
